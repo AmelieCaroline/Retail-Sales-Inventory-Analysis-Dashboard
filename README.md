@@ -1,18 +1,27 @@
 # Retail-Sales-Inventory-Analysis-Dashboard
-Retail Sales and Inventory Analysis project using SQL and Excel to analyze sales performance, inventory levels, and restocking opportunities.
+This project analyzes retail sales and inventory data to identify sales trends, inventory gaps, and stock optimization opportunities.
 ---
 
 ## Overview
 This project demonstrates how Excel can be used to build an interactive business intelligence dashboard for retail inventory management.
 The dashboard analyzes more than 73,000 retail transactions and provides insights into revenue, inventory performance, product demand, and operational efficiency.
 
+## Business Value
+
+This dashboard helps retail managers:
+* **Monitor inventory health in real time.
+* **Identify overstock and stockout risks.
+* **Track revenue performance across categories and regions.
+* **Analyze top-performing products.
+* **Support data-driven inventory planning and replenishment decisions.
+  
 ## Tools Used
-Microsoft Excel
-SQL
-Power Query
-PivotTables
-PivotCharts
-Dashboard Features
+* **Microsoft Excel**
+* **SQL**
+* **Power Query**
+* **PivotTables**
+* **PivotCharts**
+* **Dashboard Features**
 
 ---
 
@@ -37,7 +46,10 @@ Inventory Status Distribution
 Revenue by Region
 Weather Impact on Units Sold
 Weather Impact on Inventory Level
-## Key Metrics at a Glance     Key Business Insights
+
+---
+
+## Key Business Insights
 
 Total Revenue reached $495.67M.
 Nearly 10 million units were sold during the analysis period.
@@ -47,7 +59,10 @@ Nearly 10 million units were sold during the analysis period.
 Furniture generated the highest revenue among all product categories.
 Monthly revenue remained relatively stable throughout the year.
 Weather conditions showed only minor variation in units sold and inventory levels.
-Business Value
+
+---
+
+## Business Value
 
 This dashboard helps retail managers:
 * **Monitor inventory health in real time.
@@ -130,26 +145,7 @@ The dashboard includes KPI monitoring, trend analysis, drill-down exploration, o
 
 ---
 
-## Key Metrics at a Glance
-* Total Incidents: 514
-* Total Incident Cost: $717,800
-* Total Lost Days: 378.5
-* Average Days Lost per Incident: 0.74
-* Lost Time Rate: 73.64%
 
-Over 73% of incidents resulted in lost work time — highlighting a significant human and productivity impact beyond direct medical costs.
-
---- 
-
-## Report Pages
-
-### Executive Dashboard
-High-level overview of workplace incidents through KPIs and summary visualizations.
-
-* Total incidents, cost, lost days, and lost time rate
-* Incident distribution by plant (Montana 12.45% → Purchasing 8.37%)
-* Incident distribution by department (Shipping leads at 13.23%)
-* Interactive year slicer (2020, 2021, 2022)
 
 Monitor inventory health in real time.
 Identify overstock and stockout risks.
