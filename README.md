@@ -9,11 +9,11 @@ The dashboard analyzes more than 73,000 retail transactions and provides insight
 ## Business Value
 
 This dashboard helps retail managers:
-* **Monitor inventory health in real time.
-* **Identify overstock and stockout risks.
-* **Track revenue performance across categories and regions.
-* **Analyze top-performing products.
-* **Support data-driven inventory planning and replenishment decisions.
+* Monitor inventory health in real time.
+* Identify overstock and stockout risks.
+* Track revenue performance across categories and regions.
+* Analyze top-performing products.
+* Support data-driven inventory planning and replenishment decisions.
 
 ## Business Questions
 - Which products generate the most revenue?
