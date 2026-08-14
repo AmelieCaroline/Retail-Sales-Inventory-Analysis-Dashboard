@@ -2,6 +2,9 @@
 This project analyzes retail sales and inventory data to identify sales trends, inventory gaps, and stock optimization opportunities.
 ---
 
+## Data Source
+https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset?utm_source=chatgpt.com
+
 ## Overview
 This project demonstrates how Excel can be used to build an interactive business intelligence dashboard for retail inventory management.
 The dashboard analyzes more than 73,000 retail transactions and provides insights into revenue, inventory performance, product demand, and operational efficiency.
